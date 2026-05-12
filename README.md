@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Linguagem-R-276DC3?style=for-the-badge&logo=r" alt="R">
   <img src="https://img.shields.io/badge/Domínio-Bioinformática-2E8B57?style=for-the-badge" alt="Bioinformatics">
   <img src="https://img.shields.io/badge/IA-SuperLearner%20%2B%20SHAP-FF6F00?style=for-the-badge" alt="AI">
-  <img src="https://img.shields.io/badge/Status-Dissertação%20Concluída-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Dissertação%20em%20Andamento-yellow?style=for-the-badge" alt="Status">
 </p>
 
 ---
